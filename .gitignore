@@ -70,8 +70,11 @@ venv.bak/
 .ropeproject
 /site
 .mypy_cache/
+.idea/
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/modules.xml
 .idea/untitled2.iml
 .idea/workspace.xml
+/test_sync.ipynb
+/.gitignore
